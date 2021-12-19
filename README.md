@@ -1,7 +1,4 @@
-# netflix-series
-Patryk Jędrzejewski 145221
-Filip Kaczmarek 139949
-
+# netflix-series by Patryk Jędrzejewski 145221 and Filip Kaczmarek 139949
 
 How to:
 1. Import:
